@@ -1,0 +1,1 @@
+Learning CI/CD from ansible hexlet. And a ansible/ molecule pipeline
